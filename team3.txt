@@ -1,0 +1,5 @@
+Pokemon .Charmander,fire type,100,1245128
+    Attack .Hot Iron,16
+    Attack .Falling Star,10
+    Attack .Ignation,25
+    Attack .Draco Meteor,21

@@ -1,0 +1,17 @@
+Pokemon .Charmander,fire type,100,1245128
+    Attack .Fire Blast,26
+    Attack .Fire Ball,10
+    Attack .Ignation,20
+Pokemon .Torchic,fire type,100,2347892
+    Attack .Angry Hell,30
+    Attack .Fire Ball,10
+    Attack .Hot Iron,27
+    Attack .Draco Meteor,18
+Pokemon .Piplup,water type,100,134243
+    Attack .Bubble Beam,23
+    Attack .Whirl Pool,25
+    Attack .Waterspout,14
+    Attack .Dark Tsunami,32
+Pokemon .Trecko,grass type,100,1234425
+    Attack .Stem Sword,21
+    Attack .Hawthorn Trap,10

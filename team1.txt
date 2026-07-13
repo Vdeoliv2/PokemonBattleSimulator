@@ -1,0 +1,16 @@
+Pokemon .Bulbassaur,grass type,100,134297
+    Attack .Weed Gush,34
+    Attack .Poison Block,12
+    Attack .Leaf Tornado,22
+Pokemon .Snivy,grass type,100,1342243
+    Attack .Wine Whip,20
+    Attack .Attraction,17
+    Attack .Solar Shine,10
+    Attack .Spring Wrath,13
+Pokemon .Chimchar,fire type,100,134212
+    Attack .Lava Spill,3
+    Attack .Nether Power,10
+Pokemon .Staryu,water type,100,134252
+    Attack .Aquajet,12
+    Attack .Deep Dive,20
+    Attack .Brighty Waterfall,11
