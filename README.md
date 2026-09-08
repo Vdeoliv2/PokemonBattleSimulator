@@ -80,7 +80,3 @@ The simulator includes Fire, Grass, and Water Pokémon types implemented through
 ## Documentation
 
 - [Final Project Report](https://uofh-my.sharepoint.com/:v:/r/personal/vdeoliv2_cougarnet_uh_edu/Documents/Recordings/Screen%20Recording%20Demo-20250429_095717-Meeting%20Recording.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iHTGSS)
-
-## Demonstration
-
-- [Project Demo](https://uofh-my.sharepoint.com/:v:/r/personal/vdeoliv2_cougarnet_uh_edu/Documents/Recordings/Screen%20Recording%20Demo-20250429_095717-Meeting%20Recording.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iHTGSS)
