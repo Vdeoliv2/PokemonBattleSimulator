@@ -79,4 +79,4 @@ The simulator includes Fire, Grass, and Water Pokémon types implemented through
 
 ## Documentation
 
-- [Final Project Report](Final Report for Pokémon Battle Simulator.pdf)
+- [Final Project Report]("Final Report for Pokémon Battle Simulator.pdf")
